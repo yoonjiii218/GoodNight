@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b1e114e5-4d00-4cfa-bd0f-58c1564e3649)# 🌟GoodNight
+# 🌟GoodNight
 >게임 장르: 2D 런앤건 플랫폼<br/>
 >개발툴: Unity2D<br/>
 >프로젝트 유형: 개인프로젝트<br/>
