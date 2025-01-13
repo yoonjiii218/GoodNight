@@ -3,7 +3,7 @@
 >개발툴: Unity2D<br/>
 >프로젝트 유형: 개인프로젝트<br/>
 >개발기간: 2021.02~2021.05<br/>
-<br/>
+
 ![캡처1 (1)](https://github.com/user-attachments/assets/ef8bf64d-f4dc-4648-a081-984adc0ca4b3)
 <br/>
 ## 🔗Link
