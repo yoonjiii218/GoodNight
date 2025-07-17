@@ -1,5 +1,6 @@
 # <div align="center"> 🌟GoodNight </div>
 주인공이 악몽에서 벗어나기 위해 악몽을 이겨내는 내용의 게임입니다. 꿈속에서처럼 맵이나 진행 방향이 갑자기 바뀌는 기능을 게임으로 만들고 싶어서 제작한 게임으로 꿈 속에서 일어나는 것과 비슷한 **다양한 맵 트릭**을 구현했습니다. 
+<img width="920" height="516" alt="Image" src="https://github.com/user-attachments/assets/a3d8a299-807d-4d61-853d-02cb710c07bb" />
 ## 목차
 - [개요](#개요)
 - [게임 플레이 방식](#게임-플레이-방식)
